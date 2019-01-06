@@ -1,6 +1,6 @@
 # NMS-United-Federation-of-Travelers-Emblem
 
-![Galactic Hub Default](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghd.png)
+![default Federation emblem](https://github.com/donswelt/NMS-United-Federation-of-Travelers-Emblem/blob/master/images/ufot.png)
 
 Designed by Torsten Hartmann. That's me.
 
