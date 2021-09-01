@@ -2,7 +2,7 @@
 
 ![default Federation emblem](https://github.com/donswelt/NMS-United-Federation-of-Travelers-Emblem/blob/master/images/ufot.png)
 
-Designed by Torsten Hartmann. That's me.
+Designed by Torsten Hartmann.
 
 This .afdesign file contains layers with all variations of the Federation emblem. You can open and edit this file in [Affinity Designer](https://affinity.serif.com/) or use the .png files from the 'hires' directory.
 
